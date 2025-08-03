@@ -41,14 +41,20 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects I've Worked On
 
-Here are a few things I've been working on:
+🔹 [**Brain Tumor CNN Classifier**](https://github.com/franeklasinski/brain-tumor-cnn-classifier)  
+A convolutional neural network (CNN) for detecting and classifying brain tumors from MRI scans.  
+*Technologies:* Python, Keras, OpenCV
 
-- 🔎 **[Image Classifier using CNNs](#)** – Custom convolutional model trained on medical image data  
-- 📈 **[Stock Price Predictor](#)** – LSTM model for predicting stock prices using historical data  
-- 📊 **[Spotify Data Analyzer](#)** – Visualization of listening patterns using Pandas and Matplotlib  
-- 🤖 **[Chatbot using NLP](#)** – Simple rule-based and ML-enhanced conversational bot
+🔹 [**Brodnica Bus Schedule**](https://github.com/franeklasinski/brodnica-bus-schedule)  
+A real-time passenger information system for public transportation in Brodnica. Includes route search and schedule display.  
+*Technologies:* Python, data wrangling, JSON, automation
+
+🔹 [**PDF LLaMA Assistant**](https://github.com/franeklasinski/PDF-LLaMA-Assistant)  
+An AI assistant that uses the LLaMA language model to read, analyze, and answer questions based on PDF documents.  
+*Technologies:* Python, Transformers, LangChain, LLMs
+
 
 > *More on my repositories tab!*
 
