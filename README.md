@@ -69,7 +69,7 @@ An AI assistant that uses the LLaMA language model to read, analyze, and answer 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciszek-łasiński/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/franciszek-łasiński/](https://www.linkedin.com/in/franciszek-łasiński-561420378/?trk=opento_sprofile_topcard))  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fralas000@pbs.edu.pl)
 
 ---
