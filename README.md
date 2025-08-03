@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 - 🧠 I'm currently exploring **deep learning** and **natural language processing**
-- 🛠️ Building projects with **TensorFlow, PyTorch, and Scikit-learn**
+- 🛠️ Building projects with **PyTorch, and Scikit-learn**
 - 🌱 Learning more about **MLOps and cloud deployment**
 - 💡 I love solving problems with **data** and turning ideas into insights
 - 📚 Always learning something new in the world of **AI**
