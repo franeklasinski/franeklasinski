@@ -60,9 +60,8 @@ An AI assistant that uses the LLaMA language model to read, analyze, and answer 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub language
 
-![Franciszek's GitHub stats](https://github-readme-stats.vercel.app/api?username=franeklasinski&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeklasinski&layout=compact&theme=tokyonight)
 
 
