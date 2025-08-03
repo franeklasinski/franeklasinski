@@ -56,8 +56,9 @@ Here are a few things I've been working on:
 
 ## 📈 GitHub Stats
 
-![Franciszek's GitHub stats](https://github-readme-stats.vercel.app/api?franeklasinski&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?franeklasinski&layout=compact&theme=tokyonight)
+![Franciszek's GitHub stats](https://github-readme-stats.vercel.app/api?username=franeklasinski&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeklasinski&layout=compact&theme=tokyonight)
+
 
 ---
 
