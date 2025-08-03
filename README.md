@@ -74,5 +74,5 @@ An AI assistant that uses the LLaMA language model to read, analyze, and answer 
 
 ---
 
-![Thanks for visiting](https://visitcount.itsvg.in/api?id=franciszek&label=Profile%20Views&color=6&icon=5&pretty=true)
+![Thanks for visiting](https://visitcount.itsvg.in/api?id=franeklasinski&label=Profile%20Views&color=6&icon=5&pretty=true)
 
