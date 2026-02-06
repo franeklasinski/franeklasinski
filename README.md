@@ -57,14 +57,6 @@ An AI assistant that uses the LLaMA language model to read, analyze, and answer 
 
 > *More on my repositories tab!*
 
----
-
-## 📈 GitHub language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeklasinski&layout=compact&theme=tokyonight)
-
-
----
 
 ## 📫 Let's Connect
 
