@@ -43,17 +43,16 @@
 
 ## 🚀 Projects I've Worked On
 
+🔹 [**License Plate Detection with YOLOv8**](https://github.com/franeklasinski/License-Plate-Detection-with-YOLOv8-Green-AI)
+
 🔹 [**Brain Tumor CNN Classifier**](https://github.com/franeklasinski/brain-tumor-cnn-classifier)  
 A convolutional neural network (CNN) for detecting and classifying brain tumors from MRI scans.  
-*Technologies:* Python, Keras, OpenCV
 
 🔹 [**Brodnica Bus Schedule**](https://github.com/franeklasinski/brodnica-bus-schedule)  
 A real-time passenger information system for public transportation in Brodnica. Includes route search and schedule display.  
-*Technologies:* Python, data wrangling, JSON, automation
 
 🔹 [**PDF LLaMA Assistant**](https://github.com/franeklasinski/PDF-LLaMA-Assistant)  
 An AI assistant that uses the LLaMA language model to read, analyze, and answer questions based on PDF documents.  
-*Technologies:* Python, Transformers, LangChain, LLMs
 
 
 > *More on my repositories tab!*
