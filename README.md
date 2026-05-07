@@ -1,8 +1,8 @@
 # Hi 👋, I'm Franciszek Łasiński
 
-🎓 **Applied Computer Science student** at the Bydgoszcz University of Science and Technology  
-📊 Interested in **Data Science, Neural Networks, and Machine Learning**  
-🔬 Passionate about **Python, data analysis, and AI-driven solutions**  
+🎓 **Programmer** at Bydgoszcz University of Science and Technology
+💻 Interested in Machine Learning, Neural Networks, and Cybersecurity
+🚀 Expanding my skills in AI and the broader IT field 
 📍 Based in **Poland**  
 
 ---
