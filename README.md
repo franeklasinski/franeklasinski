@@ -1,9 +1,9 @@
 # Hi 👋, I'm Franciszek Łasiński
 
-🎓 **Programmer** at Bydgoszcz University of Science and Technology
-💻 Interested in Machine Learning, Neural Networks, and Cybersecurity
-🚀 Expanding my skills in AI and the broader IT field 
-📍 Based in **Poland**  
+- 🎓 **Programmer** at Bydgoszcz University of Science and Technology
+- 💻 Interested in Machine Learning, Neural Networks, and Cybersecurity
+- 🚀 Expanding my skills in AI and the broader IT field 
+- 📍 Based in **Poland**  
 
 ---
 
